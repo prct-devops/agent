@@ -1,0 +1,127 @@
+value: change_FNN12.*
+
+{{Request.QueryParam.OrderId}}d5a8f003--correlation id
+{{Request.QueryParam.OrderId}}DlNJAA0
+
+
+
+/v1/customers/customer-accounts/e9eb2212-579a-e53a-8709-9109e2ce74f2
+__ORD__d5a8f003
+
+
+
+CustomerIndividualAPI_EOV_FIXED_Change_FNN
+
+/v1/customers/individuals/d78cbb22-6808-01f6-93b4-66c917956485
+
+
+
+AddressAPI_EOV_Fixed_Change FNN for Scenario=Change Number
+/addressq-uat/v3/addresssearch/addresses/160423453
+
+
+
+
+portout
+
+value:
+
+{{Request.QueryParam.OrderId}}fe1166
+{{Request.QueryParam.OrderId}}dffe1166"
+
+3e930f1d-0544-c60d-7092-8_ywe45c1c8e
+6fd35082-5566-b184-d366-060_hjy37874
+
+
+CustAcuntsAPI_EOVFixedPortOut_Scenario=Disconnect Tier
+CustomerAccountsAPI_EOVFixedPrtOut_Scenario=Disconnect Tier which will work for customerAPI for Fixed Port Out
+/v1/customers/customer-accounts/3e930f1d-0544-c60d-7092-8375802c1c8e
+
+
+
+CustAcuntsAPI_EOVFixedPortOut_Scenario=Disconnect Connection
+CustomerAccountsAPI_EOVFixedPrtOut_Scenario=Disconnect Connection which will work for customerAPI for Fixed Port Out
+v1/customers/customer-accounts/3e930f1d-0544-c60d-7092-8_ywe45c1c8e
+
+
+CustomerIndividualAPI_EOVFixedPortOut_Scenario=Disconnect Tier 
+CustomerIndividualAPI_EOVFixedPortOut which will work for customercontactAPI for Scenario is Disconnect Tier for Port Out
+v1/customers/individuals/6fd35082-5566-b184-d366-060ad7136177
+
+
+CustIndvdualAPI_EOVFxdPortOut_Scenario=Disconnect Connection 
+CustomerIndividualAPI_EOVFixedPortOut which will work for customercontactAPI for Scenario is Disconnect Connection for Port Out
+v1/customers/individuals/6fd35082-5566-b184-d366-060_hjy37874
+
+
+AddressAPI_EOVFxdPortOut_Scenario=Disconnect Tier
+AddressAPI_EOVFxdPortOut which will work for addressIdVLO for Scenario is Disconnect Tie for Port Out
+/addressq-uat/v3/addresssearch/addresses/160286797
+
+
+AddressAPI_EOVFxdPortOut_Scenario=Disconnect Connection 
+AddressAPI_EOVFxdPortOut which will work for addressIdVLO for Scenario is Disconnect Connection for Port Out
+/addressq-uat/v3/addresssearch/addresses/1602866787
+
+balanceMangerAPI_EOVFxdChangeFNN_Scenario=Change Number
+balanceMangerAPI_EOVFxdChangeFNN which will work for balanceMangerAPI for Scenario is Change Number for Change FNN
+v1/balances/customer-accounts/3e930f1d-0544-c60d-7092-8375802c1c8e/payment-references
+
+
+
+balanceMangerAPI_EOVFxdPortOut_Scenario=Disconnect Connection 
+balanceMangerAPI_EOVFxdPortOut which will work for balanceMangerAPI for Scenario is Disconnect Connection for Port Out
+v1/balances/customer-accounts/3e930f1d-0544-c60d-7092-8_ywe45c1c8e/payment-references
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+fixed chown
+fixedchown23.*
+
+{{Request.QueryParam.OrderId}}hnBasket
+{{Request.QueryParam.OrderId}}hnBasket89
+
+8e364b84-8bd1-0f84-1197-85d65_889a8e1b5
+43484067-44c1-bf61-d731-c6b1_7896aa_9ebcf
+
+
+
+
+CustomerAccountsAPI_EOVFixedChown_Scenario=Add New
+CustomerAccountsAPI_EOVFixedChown_Scenario=Add New which will work for customerAPI for Fixed Chown
+/v1/customers/customer-accounts/43484067-44c1-bf61-d731-c6b16aa9ebcf
+
+
+CustomerAccountsAPI_EOVFixedChown_Scenario=Add Connection
+CustomerAccountsAPI_EOVFixedChown_Scenario=Add Connection which will work for customerAPI for Fixed Chown
+/v1/customers/customer-accounts/43484067-44c1-bf61-d731-c6b1_7896aa_9ebcf
+
+
+CustomerIndividualAPI_EOVFxedChown_Scenario=Add New 
+CustomerIndividualAPI_EOVFixedChown which will work for customercontactAPI for Scenario is Add New for Chown
+v1/customers/individuals/8e364b84-8bd1-0f84-1197-85d654a8e1b5
+
+
+CustomerIndividualAPI_EOVFxedChown_Scenario=Add Connection 
+CustomerIndividualAPI_EOVFixedChown which will work for customercontactAPI for Scenario is Add Connection for Chown
+v1/customers/individuals/8e364b84-8bd1-0f84-1197-85d65_889a8e1b5
+
+
+
+AddressAPI_EOVFxedChown_Scenario=Add New 
+AddressAPI_EOVFxedChown which will work for addressIdVLO for Scenario is Add New for Chown
+/addressq-uat/v3/addresssearch/addresses/160287117
+
+
+AddressAPI_EOVFxedChown_Scenario=Add Connection 
+AddressAPI_EOVFxedChown which will work for addressIdVLO for Scenario is Add Connection for Chown
+/addressq-uat/v3/addresssearch/addresses/16028711790
+
+
+balanceMangerAPI_EOVFxedChown_Scenario=Add New 
+balanceMangerAPI_EOVFxedChown which will work for balanceMangerAPI for Scenario is Add New for Chown
+v1/balances/customer-accounts/3e930f1d-0544-c60d-7092-8375802c1c8e/payment-references
+
+balanceMangerAPI_EOVFxedChown_Scenario=Add Connection
+balanceMangerAPI_EOVFxedChown which will work for balanceMangerAPI for Scenario is Add Connection for Chown
+v1/balances/customer-accounts/3e930f1d-0544-c60d-7092-8375802c1c8e/payment-references
+
